@@ -9,3 +9,4 @@ testgithub
 - test pull request #2
 - pull request #7
 - pull request # 8
+- pull request #10
