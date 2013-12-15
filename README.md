@@ -7,3 +7,4 @@ testgithub
 - test pull request #1
 - another commit on pull request #1
 - test pull request #2
+- pull request #7
