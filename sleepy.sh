@@ -5,3 +5,4 @@
 echo 'sleeping ...'
 time sleep 1
 echo $@
+exit 255
